@@ -1,27 +1,277 @@
-# 💫 About Me:
-Passionate about DevOps, Cloud Computing, and Automation. I enjoy building reliable infrastructure, automating workflows, and deploying applications using modern DevOps practices. My interests include Linux, Docker, AWS, Kubernetes, CI/CD, Terraform, Jenkins, and Infrastructure as Code. I believe in learning by building real-world projects, solving practical challenges, and continuously improving my skills. Welcome to my GitHub, where I share my projects, experiments, and learning journey.
+<div align="center">
 
+# 👋 Hi there! I'm <span style="color:#8b5cf6">Shresth Gupta</span>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realshresth_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/realshresth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/realshresth_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realshresth@gmail.com) 
+### 🚀 DevOps Engineer in Progress | ☁️ Cloud Enthusiast | ⚙️ Automation Lover
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=realshresth&theme=moltack&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=realshresth&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=realshresth&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=realshresth&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realshresth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=realshresth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="52%" valign="top">
+
+## 🚀 About Me
+
+Passionate about **DevOps, Cloud Computing, and Automation**. I enjoy building reliable infrastructure, automating workflows, and deploying applications using modern DevOps practices.
+
+- 🔭 Building real-world DevOps projects
+- ☁️ Exploring cloud architecture
+- 🐳 Working with containers & Kubernetes
+- ⚙️ Automating CI/CD workflows
+- 🏗️ Practicing Infrastructure as Code
+- 📚 Learning by building and experimenting
+- 🎯 Focus: scalable, reliable & highly available systems
+
+<br>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/realshresth">
+<img src="https://img.shields.io/badge/🤝%20Connect%20with%20me-111827?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="48%" valign="top">
+
+## 🖥️ `shresth@github ~`
+
+```text
+┌──────────────────────────────────────┐
+│  ●  ●  ●       shresth@github ~     │
+├──────────────────────────────────────┤
+│                                      │
+│  Name       : Shresth Gupta          │
+│  Role       : DevOps Engineer        │
+│  Status     : Building & Learning    │
+│  Focus      : DevOps | Cloud         │
+│               Automation              │
+│  Stack      : AWS | Docker | K8s     │
+│  IaC        : Terraform | Ansible    │
+│  CI/CD      : Jenkins | GitHub       │
+│               Actions                │
+│                                      │
+│  > Building the future...            │
+│    one commit at a time_             │
+└──────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/realshresth">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn">
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram">
+</a>
+<a href="https://x.com/YOUR_X_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&label=X">
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Email">
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="180"><b>☁️ Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="42">
+</td>
+</tr>
+
+<tr>
+<td><b>🐳 Containers</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42">
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ IaC & CI/CD</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions" height="42">
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,c,java,yaml" height="42">
+</td>
+</tr>
+
+<tr>
+<td><b>🔧 DevOps Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,github,gitlab,helm,prometheus,grafana" height="42">
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Others</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postman,vscode,mongodb,mysql,redis,nodejs" height="42">
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB">
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=60A5FA">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=60A5FA&line=8B5CF6&point=F97316&area=true&hide_border=true" width="96%">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" width="96%">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐳 Docker Labs
+Containerization experiments, Dockerfiles, volumes, networks and multi-container applications.
+
+**Docker · Linux · Bash**
+
+</td>
+<td width="50%">
+
+### ☁️ AWS Infrastructure
+Cloud infrastructure and deployment experiments using AWS services.
+
+**AWS · Linux · Terraform**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ CI/CD Pipeline
+Automated application build, test and deployment workflow.
+
+**Jenkins · GitHub Actions · Docker**
+
+</td>
+<td>
+
+### ☸️ Kubernetes Lab
+Container orchestration, deployments, services, scaling and configuration.
+
+**Kubernetes · Docker · YAML**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 My DevOps Roadmap
+
+```text
+                         ┌──────────────┐
+                         │    LINUX     │
+                         └──────┬───────┘
+                                ↓
+                         ┌──────────────┐
+                         │ GIT / GITHUB │
+                         └──────┬───────┘
+                                ↓
+                         ┌──────────────┐
+                         │    DOCKER    │
+                         └──────┬───────┘
+                                ↓
+                    ┌───────────┴───────────┐
+                    ↓                       ↓
+              ┌──────────┐            ┌──────────┐
+              │   AWS    │            │  CI/CD   │
+              └────┬─────┘            └────┬─────┘
+                   └──────────┬─────────────┘
+                              ↓
+                       ┌─────────────┐
+                       │  TERRAFORM  │
+                       └──────┬──────┘
+                              ↓
+                       ┌─────────────┐
+                       │ KUBERNETES  │
+                       └──────┬──────┘
+                              ↓
+                    ┌──────────────────┐
+                    │ OBSERVABILITY    │
+                    │ Prometheus/Grafana│
+                    └──────────────────┘
+```
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build • Automate • Deploy • Monitor • Improve
+
+**Thanks for visiting my profile!**
+
+⭐ If you like my work, consider starring my repositories.
+
+<br>
+
+`Made with ❤️ and lots of ☕ by Shresth Gupta`
+
+</div>
